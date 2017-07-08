@@ -1,4 +1,4 @@
-# Hope & healing
+# Hope & Healing
 
 This was a project that I developed for a non-profit client. I used a bootstrap based template and customized it according to their desire.
 
